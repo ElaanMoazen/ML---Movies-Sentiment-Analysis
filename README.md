@@ -1,4 +1,4 @@
-# ML---Movies-Sentiment-Analysis
+# ML- Movies-Sentiment-Analysis
 Using Logistic regression classifier to sentiments Analysis Movies reviews
 
 Title: **IMDB Movie Reviews Sentiment Analysis**
